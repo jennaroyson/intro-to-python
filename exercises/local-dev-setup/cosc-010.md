@@ -1,4 +1,4 @@
-# Local Development Environment Setup Guide (COSC 010)
+# Local Development Environment Setup Guide (COSC 010)_
 
 > NOTE: this guide is for COSC 010 students!
 
